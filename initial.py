@@ -3,6 +3,8 @@
 # ✋ All 5 fingers UP → Erase
 # 🤏 Pinch (thumb + index) → Adjust brush size (applies to all colors)
 # ✊ FIST (all fingers closed) → Next color
+# keyboard c clears canvas
+# keyboard q quits
 # Touch colors → Select specific color
 import cv2
 import mediapipe as mp
